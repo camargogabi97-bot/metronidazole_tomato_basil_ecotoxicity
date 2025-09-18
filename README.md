@@ -4,7 +4,9 @@ This repository contains processed data used in the article: Metronidazole Toxic
 The data support three main parts of the study:
 
 (1) Germination test maps and germination rates.
+
 (2) Analysis of TLC plates.
+
 (3) Densitometric analysis of TLC images.
 
 
