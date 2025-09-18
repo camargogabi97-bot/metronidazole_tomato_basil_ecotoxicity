@@ -10,6 +10,7 @@ The data support three main parts of the study:
 📂 Folder Structure and Contents
 
 /Dataset/Germination/
+
 Contains materials related to cultivation:
  - A file with the cultivation germination map and the germination rate calculations.
 
