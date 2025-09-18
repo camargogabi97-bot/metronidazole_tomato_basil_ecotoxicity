@@ -28,6 +28,4 @@ The protocol used for the preparation of the plates.
 
 /Dataset/Densitometric analysis/
 
-- Here is a more fluid translation:
-
-This file contains the chromatographic plates used for quantification, along with the densitometric results for the extracts. It also includes the plate used for the analytical curve and its corresponding graph.
+- This file contains the chromatographic plates used for quantification, along with the densitometric results for the extracts. It also includes the plate used for the analytical curve and its corresponding graph.
