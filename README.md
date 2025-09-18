@@ -14,11 +14,11 @@ The data and files here support three main parts of the study:
 
 📂 Folder Structure and Contents
 
-/Dataset/Germination/
+/Germination/
 
 - Contains the data and calculations from the germination test, including the cultivation germination map and corresponding germination rates.
 
-/Dataset/Thin-Layer Chromatography/
+/Thin-Layer Chromatography/
 
 - Files related to the TLC analysis. This includes the high-resolution digital image of the chromatography plates.
 
@@ -26,7 +26,7 @@ The data and files here support three main parts of the study:
 
 - The detailed protocol for preparing the plates is also available in this folder.
 
-/Dataset/Densitometric analysis/
+/Densitometric analysis/
 
 - This file contains the chromatographic plates used for quantification, along with the densitometric results for the extracts. It also includes the plate used for the analytical curve and its corresponding graph.
 
